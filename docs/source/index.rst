@@ -12,6 +12,10 @@ Banana
 
 Wolverine
 
+papaya
+
+this is 2.0.x
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
